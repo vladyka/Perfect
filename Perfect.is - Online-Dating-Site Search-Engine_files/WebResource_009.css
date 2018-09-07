@@ -1,0 +1,1 @@
+﻿.RadLabel{display:inline-block;line-height:1.42857143;padding-right:5px}
